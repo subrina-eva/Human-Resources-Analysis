@@ -33,7 +33,7 @@
       <h1 align="center">Executive Summary</h1>
       <h3 align="center">Workforce Trends and HR Performance Analysis (2015–2024)</h3>
       <div align="center">
-      <img src="Images/Workforce Trends and HR Performance Analysis (2015–2024).png" 
+      <img src="images/workforce-trends-2015-2024.png" 
      width="1000"/>
       </div>
       <td width="460" valign="top">
@@ -91,7 +91,7 @@
       <div align="center">
         <h3>Employees Hired and Terminated by Department</h3>
         <div align="center">
-       <img src="Images/Employees Hired and Terminated by Department.png" 
+       <img src="images/employees-hired-terminated-by-department.png" 
        width="1000"/>
       </div>
     <tr>
@@ -128,7 +128,7 @@
     <td width="500">
        <div valign="top" align="center">
        <h3>Gender Composition of the Workforce</h3>
-       <img src="Images/Gender Composition of the Workforce.png" 
+       <img src="images/gender-composition-of-workforce.png" 
        width="1000"/>
     </div>
     </td>
@@ -149,12 +149,12 @@
     <tr align="center">
       <td width="1000">
       <h3>Education Distribution by Age Group</h3>
-      <img src="Images/Education & Age Distribution.png" 
+      <img src="images/education-age-distribution.png" 
        width="450"/>
     </td>
     <td width="1000">
       <h3>Employee Performance by Education Level</h3>
-      <img src="Images/Education vs Performance Matrix.png" 
+      <img src="images/education-vs-performance-matrix.png" 
        width="450"/>
     </td>
   </tr>
@@ -181,7 +181,7 @@
   <tr>
     <h1 align="center">Salary and Role Insights</h1>
     <td width="1000">
-      <img src="Images/Age vs Salary Scatter Plot.png" 
+      <img src="images/age-vs-salary-scatter-plot.png" 
        width="1000"/>
     </td>
   </tr>
@@ -216,7 +216,7 @@
 <table align="center">
   <h1 align="center">Geographic Workforce Distribution</h1>
       <div align="center">
-       <img src="Images/Employee Distribution by Location (HQ vs Branch).png" 
+       <img src="images/employee-distribution-by-location-hq-vs-branch.png" 
        width="1000"/>
       </div>
   <tr valign="top">
